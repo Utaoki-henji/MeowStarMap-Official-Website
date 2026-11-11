@@ -1,0 +1,26 @@
+[
+  {
+    "label": "源文件（现状）",
+    "path": "D:\\utaoki\\program\\MeowStarMap-Official-Website\\Meow Star Map 官网.html",
+    "bytes": 34856177,
+    "gzip": 24835306,
+    "brotli": 24279505,
+    "brotli_by": "node-zlib"
+  },
+  {
+    "label": "优化版 q85",
+    "path": "D:\\utaoki\\program\\MeowStarMap-Official-Website\\perf\\dist\\Meow Star Map 官网.webp-q85.html",
+    "bytes": 8222485,
+    "gzip": 4829912,
+    "brotli": 4568048,
+    "brotli_by": "node-zlib"
+  },
+  {
+    "label": "优化版 q90",
+    "path": "D:\\utaoki\\program\\MeowStarMap-Official-Website\\perf\\dist\\Meow Star Map 官网.webp-q90.html",
+    "bytes": 9308885,
+    "gzip": 5648856,
+    "brotli": 5378676,
+    "brotli_by": "node-zlib"
+  }
+]

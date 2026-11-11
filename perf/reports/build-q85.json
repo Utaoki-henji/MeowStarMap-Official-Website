@@ -1,0 +1,21 @@
+{
+  "built_at": "2026-11-11T16:48:34+08:00",
+  "level": "q85",
+  "source": {
+    "file": "Meow Star Map 官网.html",
+    "bytes": 34856177,
+    "sha256": "9fa2b06d18140db48df49e8c0ffdf54f791e8667a94f11527ed1b617dd950a86"
+  },
+  "output": {
+    "file": "Meow Star Map 官网.webp-q85.html",
+    "bytes": 8222485,
+    "sha256": "2dda859db291b2f2e9c6bad8bc6b026a76601787b4682ef2859ecbb11b60e845"
+  },
+  "images_replaced": 48,
+  "delta_bytes": -26633692,
+  "saving": 0.7641,
+  "tut_data_chars": {
+    "before": 30924373,
+    "after": 4290681
+  }
+}
